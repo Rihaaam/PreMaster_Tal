@@ -24,4 +24,9 @@ Chaque dossier contient un projet ou une expérimentation intéressante :
 - Python, manipulation de fichiers texte et JSON  
 - Traitement automatique du langage naturel (TAL)  
 - Nettoyage et analyse de données textuelles  
-- Visualisation et présentation des résultats 
+- Visualisation et présentation des résultats
+
+
+## Contact
+Email : 
+LinkedIn :
